@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skianyan
+- 👋 Hi, I’m Skianyan, nice of you to check out my profile
 - 👀 I’m interested in web development, mostly frontend stuff
 - 🌱 I’m currently learning the fundamentals of webdev through The Odin Project
 - 📫 How to reach me: @Skianyan in all social media
