@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Skianyan, nice of you to check out my profile
-- 👀 I’m interested in web development, mostly frontend stuff
-- 🌱 I’m currently learning the fundamentals of webdev through The Odin Project
+- 👀 I’m interested in web dev, mostly frontend stuff
+- 🌱 I’m currently learning Java, Javascript, and a small bit of Python
 - 📫 How to reach me: @Skianyan in all social media
 
 <!---
